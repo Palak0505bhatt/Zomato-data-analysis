@@ -1,0 +1,501 @@
+Restaurant ID,Restaurant Name,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Aggregate rating,Rating color,Rating text,Votes,City
+1000,Cafe Coffee Day,Biryani,200,INR,No,Yes,2.0,White,Average,1988,Bangalore
+1001,KFC,Cafe,200,INR,No,Yes,4.8,Green,Excellent,3545,Bangalore
+1002,McDonald's,Chinese,300,INR,No,No,3.3,Red,Excellent,4520,Bangalore
+1003,Cafe Coffee Day,Fast Food,500,INR,No,No,4.6,Yellow,Very Good,3802,Bangalore
+1004,Truffles,Desserts,800,INR,No,Yes,2.8,Red,Average,3275,Bangalore
+1005,McDonald's,North Indian,800,INR,No,Yes,2.2,Green,Poor,3654,Bangalore
+1006,McDonald's,Continental,300,INR,No,Yes,3.3,White,Poor,2434,Bangalore
+1007,Cafe Coffee Day,Desserts,300,INR,Yes,Yes,2.2,Orange,Good,4873,Bangalore
+1008,Meghana Foods,Fast Food,300,INR,No,Yes,3.3,Dark Green,Poor,207,Bangalore
+1009,Truffles,Fast Food,700,INR,No,Yes,4.7,Dark Green,Very Good,2633,Bangalore
+1010,Cafe Coffee Day,Fast Food,700,INR,No,Yes,3.4,Green,Excellent,4117,Bangalore
+1011,Truffles,Desserts,400,INR,Yes,Yes,3.7,White,Excellent,153,Bangalore
+1012,Truffles,Biryani,400,INR,Yes,Yes,2.3,Yellow,Excellent,3366,Bangalore
+1013,McDonald's,Fast Food,300,INR,No,Yes,1.9,Red,Average,4314,Bangalore
+1014,KFC,Cafe,500,INR,No,Yes,2.1,Red,Poor,4764,Bangalore
+1015,Truffles,Desserts,200,INR,No,Yes,3.7,Red,Very Good,1518,Bangalore
+1016,Corner House,Continental,700,INR,No,Yes,2.1,Yellow,Average,2600,Bangalore
+1017,McDonald's,Fast Food,500,INR,No,No,3.0,Dark Green,Good,2195,Bangalore
+1018,Meghana Foods,Cafe,600,INR,No,Yes,3.5,White,Very Good,4498,Bangalore
+1019,KFC,Biryani,700,INR,No,No,3.0,Yellow,Very Good,4691,Bangalore
+1020,Corner House,Chinese,700,INR,No,Yes,2.3,Red,Very Good,3554,Bangalore
+1021,Corner House,Biryani,400,INR,No,No,2.6,Green,Excellent,2414,Bangalore
+1022,Meghana Foods,Continental,200,INR,No,Yes,4.7,Orange,Very Good,2849,Bangalore
+1023,KFC,Fast Food,200,INR,No,No,3.9,Yellow,Poor,1742,Bangalore
+1024,McDonald's,Continental,800,INR,Yes,No,3.3,Yellow,Very Good,1306,Bangalore
+1025,Empire,Desserts,800,INR,No,Yes,1.8,White,Excellent,3849,Bangalore
+1026,KFC,South Indian,800,INR,No,Yes,4.9,White,Very Good,4168,Bangalore
+1027,Meghana Foods,Fast Food,800,INR,No,Yes,3.9,Yellow,Good,4576,Bangalore
+1028,Corner House,South Indian,600,INR,No,Yes,2.8,Red,Good,4655,Bangalore
+1029,McDonald's,Cafe,600,INR,No,Yes,4.5,Orange,Excellent,4840,Bangalore
+1030,KFC,Chinese,700,INR,No,Yes,2.6,White,Poor,4195,Bangalore
+1031,Empire,North Indian,300,INR,No,Yes,3.5,Red,Poor,2555,Bangalore
+1032,Empire,Continental,400,INR,No,Yes,3.8,Green,Average,2305,Bangalore
+1033,Truffles,Biryani,400,INR,No,No,2.5,White,Excellent,4508,Bangalore
+1034,Truffles,Chinese,800,INR,No,Yes,4.8,Red,Very Good,1088,Bangalore
+1035,Cafe Coffee Day,Fast Food,700,INR,No,No,4.1,Red,Excellent,2642,Bangalore
+1036,Meghana Foods,South Indian,500,INR,No,Yes,3.5,Orange,Average,1177,Bangalore
+1037,KFC,Biryani,300,INR,No,Yes,2.4,Orange,Excellent,4916,Bangalore
+1038,KFC,South Indian,700,INR,No,Yes,2.0,Green,Excellent,4757,Bangalore
+1039,Cafe Coffee Day,Desserts,300,INR,No,Yes,2.8,Red,Average,2994,Bangalore
+1040,Corner House,South Indian,300,INR,No,No,4.1,Dark Green,Poor,559,Bangalore
+1041,Corner House,Desserts,300,INR,No,Yes,2.6,Red,Very Good,2964,Bangalore
+1042,Cafe Coffee Day,Cafe,700,INR,No,No,3.5,Orange,Average,1271,Bangalore
+1043,Corner House,Biryani,800,INR,Yes,Yes,4.1,Dark Green,Good,1813,Bangalore
+1044,Truffles,Biryani,400,INR,No,Yes,2.1,White,Poor,2915,Bangalore
+1045,KFC,North Indian,400,INR,Yes,Yes,3.9,White,Good,609,Bangalore
+1046,Cafe Coffee Day,Fast Food,800,INR,No,Yes,2.1,Yellow,Poor,2461,Bangalore
+1047,KFC,Desserts,300,INR,No,Yes,4.8,Orange,Very Good,4120,Bangalore
+1048,Empire,North Indian,500,INR,No,Yes,3.3,Yellow,Very Good,283,Bangalore
+1049,Truffles,South Indian,200,INR,No,Yes,2.3,Dark Green,Excellent,2928,Bangalore
+1050,McDonald's,South Indian,700,INR,No,Yes,2.9,Orange,Good,4396,Bangalore
+1051,Truffles,North Indian,200,INR,No,Yes,3.1,Green,Poor,1091,Bangalore
+1052,Cafe Coffee Day,Biryani,800,INR,No,Yes,4.2,Red,Very Good,816,Bangalore
+1053,McDonald's,South Indian,500,INR,No,Yes,4.1,Green,Average,82,Bangalore
+1054,Empire,Continental,700,INR,No,Yes,3.7,Dark Green,Very Good,1920,Bangalore
+1055,Cafe Coffee Day,Cafe,800,INR,No,Yes,2.1,Orange,Average,3491,Bangalore
+1056,Meghana Foods,Cafe,300,INR,No,Yes,2.3,Dark Green,Poor,3144,Bangalore
+1057,KFC,Continental,400,INR,Yes,Yes,2.1,Red,Very Good,2093,Bangalore
+1058,Empire,North Indian,200,INR,No,Yes,3.6,White,Very Good,4713,Bangalore
+1059,KFC,Continental,600,INR,No,Yes,4.5,White,Poor,175,Bangalore
+1060,Corner House,Desserts,600,INR,No,No,3.1,Dark Green,Very Good,2704,Bangalore
+1061,Meghana Foods,Desserts,500,INR,No,Yes,2.3,Yellow,Average,4937,Bangalore
+1062,Meghana Foods,North Indian,300,INR,No,Yes,3.5,Orange,Very Good,369,Bangalore
+1063,Empire,Continental,200,INR,No,Yes,4.3,Orange,Good,1818,Bangalore
+1064,Meghana Foods,Desserts,300,INR,No,Yes,4.1,White,Excellent,2101,Bangalore
+1065,McDonald's,Biryani,200,INR,No,Yes,4.5,Green,Average,4785,Bangalore
+1066,Meghana Foods,Continental,500,INR,No,Yes,2.7,Red,Good,3490,Bangalore
+1067,KFC,Biryani,500,INR,No,No,2.4,Green,Poor,1779,Bangalore
+1068,KFC,Desserts,600,INR,No,Yes,4.5,Green,Average,1364,Bangalore
+1069,Cafe Coffee Day,Cafe,300,INR,No,Yes,3.8,Dark Green,Excellent,4462,Bangalore
+1070,KFC,Desserts,700,INR,No,Yes,2.8,White,Excellent,3342,Bangalore
+1071,Cafe Coffee Day,Biryani,600,INR,Yes,Yes,4.1,White,Poor,4739,Bangalore
+1072,KFC,Chinese,300,INR,No,Yes,4.3,White,Poor,3676,Bangalore
+1073,McDonald's,Fast Food,600,INR,No,Yes,3.7,Dark Green,Average,2426,Bangalore
+1074,Cafe Coffee Day,South Indian,700,INR,Yes,Yes,3.9,Yellow,Very Good,72,Bangalore
+1075,Truffles,Continental,400,INR,No,No,3.0,Green,Poor,2962,Bangalore
+1076,Corner House,Chinese,400,INR,No,Yes,3.5,Dark Green,Very Good,859,Bangalore
+1077,Empire,Desserts,400,INR,No,Yes,3.4,Orange,Good,3856,Bangalore
+1078,KFC,Cafe,400,INR,Yes,Yes,4.4,Red,Excellent,4138,Bangalore
+1079,Meghana Foods,North Indian,800,INR,No,Yes,4.4,Yellow,Very Good,2424,Bangalore
+1080,KFC,Desserts,200,INR,No,Yes,4.4,Orange,Excellent,1064,Bangalore
+1081,Meghana Foods,Cafe,800,INR,No,Yes,1.8,Green,Very Good,2217,Bangalore
+1082,Corner House,Fast Food,800,INR,No,No,4.1,White,Good,4017,Bangalore
+1083,Corner House,Desserts,800,INR,No,No,4.2,Green,Poor,2259,Bangalore
+1084,Corner House,Biryani,400,INR,No,Yes,3.9,Dark Green,Good,3751,Bangalore
+1085,Meghana Foods,North Indian,700,INR,No,No,4.1,Red,Poor,2086,Bangalore
+1086,KFC,Cafe,500,INR,No,Yes,4.4,Dark Green,Poor,368,Bangalore
+1087,Corner House,Cafe,500,INR,Yes,Yes,3.3,Yellow,Excellent,2804,Bangalore
+1088,McDonald's,Cafe,200,INR,No,Yes,3.4,Yellow,Good,150,Bangalore
+1089,Cafe Coffee Day,Fast Food,400,INR,No,No,2.2,Red,Very Good,1134,Bangalore
+1090,Meghana Foods,Desserts,400,INR,No,Yes,3.0,Orange,Good,2784,Bangalore
+1091,Meghana Foods,Fast Food,400,INR,No,Yes,3.8,Orange,Excellent,4164,Bangalore
+1092,KFC,Continental,600,INR,No,Yes,4.2,Yellow,Poor,2346,Bangalore
+1093,Meghana Foods,South Indian,300,INR,No,Yes,2.5,Yellow,Excellent,4897,Bangalore
+1094,Meghana Foods,South Indian,600,INR,No,Yes,2.2,White,Average,2250,Bangalore
+1095,Corner House,Continental,300,INR,No,Yes,3.9,Orange,Average,60,Bangalore
+1096,KFC,Desserts,400,INR,Yes,Yes,1.8,Red,Very Good,3010,Bangalore
+1097,Corner House,Biryani,400,INR,No,Yes,2.4,Orange,Excellent,3901,Bangalore
+1098,Cafe Coffee Day,Fast Food,600,INR,No,Yes,1.9,White,Very Good,1337,Bangalore
+1099,Cafe Coffee Day,North Indian,600,INR,No,Yes,2.3,Dark Green,Very Good,1184,Bangalore
+1100,Corner House,Cafe,300,INR,Yes,Yes,2.4,Yellow,Average,4426,Bangalore
+1101,Cafe Coffee Day,Cafe,500,INR,No,Yes,3.0,Yellow,Very Good,1551,Bangalore
+1102,KFC,Desserts,300,INR,No,Yes,3.0,White,Average,4433,Bangalore
+1103,Empire,Biryani,600,INR,No,Yes,4.5,Red,Poor,1629,Bangalore
+1104,Corner House,South Indian,700,INR,No,Yes,3.4,Yellow,Excellent,1327,Bangalore
+1105,McDonald's,South Indian,600,INR,No,No,4.0,Green,Very Good,1526,Bangalore
+1106,McDonald's,Cafe,700,INR,No,Yes,2.1,Yellow,Average,1673,Bangalore
+1107,Meghana Foods,Desserts,200,INR,No,Yes,2.5,Green,Good,1361,Bangalore
+1108,Cafe Coffee Day,Fast Food,600,INR,No,Yes,4.0,White,Very Good,1573,Bangalore
+1109,McDonald's,South Indian,200,INR,Yes,Yes,2.0,White,Poor,2686,Bangalore
+1110,Meghana Foods,Fast Food,500,INR,No,Yes,3.3,Yellow,Poor,4370,Bangalore
+1111,Empire,Biryani,300,INR,No,Yes,3.7,Orange,Good,2366,Bangalore
+1112,KFC,South Indian,700,INR,No,Yes,3.7,Green,Average,3757,Bangalore
+1113,KFC,South Indian,300,INR,No,Yes,1.9,Red,Very Good,2434,Bangalore
+1114,KFC,Chinese,200,INR,No,No,2.8,Yellow,Average,1993,Bangalore
+1115,McDonald's,South Indian,700,INR,No,No,3.8,Red,Poor,869,Bangalore
+1116,Empire,Continental,300,INR,No,Yes,2.3,Yellow,Average,1014,Bangalore
+1117,McDonald's,North Indian,600,INR,Yes,Yes,4.0,Orange,Poor,1911,Bangalore
+1118,Cafe Coffee Day,Continental,400,INR,No,No,4.1,Orange,Average,602,Bangalore
+1119,McDonald's,Desserts,200,INR,No,Yes,4.8,Orange,Good,3821,Bangalore
+1120,Empire,Desserts,300,INR,No,Yes,2.5,Dark Green,Excellent,690,Bangalore
+1121,Empire,Fast Food,200,INR,Yes,No,4.4,Orange,Good,493,Bangalore
+1122,Cafe Coffee Day,Continental,800,INR,Yes,Yes,3.4,White,Good,489,Bangalore
+1123,Empire,Continental,200,INR,No,Yes,3.0,White,Excellent,2556,Bangalore
+1124,Empire,Continental,700,INR,No,No,2.2,Dark Green,Excellent,4485,Bangalore
+1125,KFC,Biryani,800,INR,No,Yes,4.1,Green,Very Good,294,Bangalore
+1126,Cafe Coffee Day,South Indian,700,INR,No,Yes,2.5,Red,Very Good,4027,Bangalore
+1127,Truffles,North Indian,400,INR,No,Yes,3.0,Yellow,Good,2843,Bangalore
+1128,Truffles,Fast Food,800,INR,No,No,2.0,Yellow,Good,2912,Bangalore
+1129,Empire,Continental,600,INR,No,No,4.3,Dark Green,Poor,1717,Bangalore
+1130,Truffles,Continental,200,INR,No,No,4.2,White,Poor,2596,Bangalore
+1131,Truffles,Chinese,300,INR,No,Yes,4.1,Yellow,Very Good,4744,Bangalore
+1132,Empire,Fast Food,500,INR,No,No,2.7,White,Very Good,1873,Bangalore
+1133,Truffles,Continental,200,INR,No,No,2.3,Green,Poor,4663,Bangalore
+1134,McDonald's,Fast Food,200,INR,No,Yes,3.8,Red,Poor,3258,Bangalore
+1135,Meghana Foods,South Indian,400,INR,No,No,3.3,Green,Average,2817,Bangalore
+1136,Cafe Coffee Day,Chinese,600,INR,Yes,No,2.4,Dark Green,Average,444,Bangalore
+1137,Meghana Foods,Fast Food,500,INR,Yes,Yes,3.9,Orange,Poor,3641,Bangalore
+1138,Empire,North Indian,800,INR,No,Yes,4.9,Orange,Average,4458,Bangalore
+1139,KFC,North Indian,800,INR,Yes,Yes,4.1,Orange,Excellent,741,Bangalore
+1140,Cafe Coffee Day,Desserts,800,INR,No,Yes,4.1,Green,Very Good,2041,Bangalore
+1141,Empire,Chinese,700,INR,No,Yes,4.7,Yellow,Very Good,679,Bangalore
+1142,KFC,Chinese,700,INR,No,Yes,2.4,Red,Poor,2467,Bangalore
+1143,Meghana Foods,Desserts,300,INR,No,No,3.6,Orange,Good,3697,Bangalore
+1144,Empire,Fast Food,500,INR,No,No,4.8,Dark Green,Poor,1358,Bangalore
+1145,Cafe Coffee Day,Chinese,800,INR,No,No,2.3,Dark Green,Average,62,Bangalore
+1146,Cafe Coffee Day,North Indian,700,INR,No,Yes,4.0,Orange,Good,2559,Bangalore
+1147,Corner House,North Indian,300,INR,No,Yes,3.6,Orange,Average,3769,Bangalore
+1148,McDonald's,Continental,600,INR,Yes,Yes,3.6,Red,Excellent,4351,Bangalore
+1149,Truffles,South Indian,300,INR,No,Yes,4.0,Orange,Average,134,Bangalore
+1150,KFC,Chinese,700,INR,No,No,4.7,Red,Excellent,3644,Bangalore
+1151,Corner House,Fast Food,400,INR,No,No,4.2,Dark Green,Excellent,4970,Bangalore
+1152,Truffles,Desserts,400,INR,Yes,Yes,2.0,Orange,Average,4917,Bangalore
+1153,Truffles,Desserts,800,INR,No,No,4.4,Green,Average,2135,Bangalore
+1154,Empire,Fast Food,400,INR,No,No,2.5,Green,Excellent,3278,Bangalore
+1155,Truffles,Biryani,800,INR,No,Yes,3.0,Dark Green,Good,822,Bangalore
+1156,McDonald's,Cafe,800,INR,Yes,No,3.2,Red,Excellent,3074,Bangalore
+1157,Cafe Coffee Day,South Indian,700,INR,No,Yes,3.3,Green,Very Good,2981,Bangalore
+1158,Corner House,Desserts,400,INR,No,Yes,3.1,Red,Excellent,120,Bangalore
+1159,Truffles,Chinese,800,INR,No,Yes,4.7,Green,Good,1637,Bangalore
+1160,Empire,South Indian,500,INR,No,Yes,4.0,Green,Very Good,924,Bangalore
+1161,McDonald's,Chinese,600,INR,No,Yes,3.8,Red,Poor,644,Bangalore
+1162,Meghana Foods,Biryani,300,INR,No,Yes,2.0,Yellow,Poor,2032,Bangalore
+1163,Cafe Coffee Day,North Indian,300,INR,No,Yes,4.6,Green,Good,2761,Bangalore
+1164,Cafe Coffee Day,South Indian,700,INR,No,Yes,4.6,Orange,Excellent,2068,Bangalore
+1165,Corner House,Continental,400,INR,Yes,Yes,4.2,Dark Green,Average,241,Bangalore
+1166,Cafe Coffee Day,Desserts,400,INR,Yes,Yes,1.8,Yellow,Good,2668,Bangalore
+1167,Truffles,South Indian,800,INR,Yes,Yes,2.0,Red,Very Good,802,Bangalore
+1168,Empire,South Indian,200,INR,No,Yes,2.5,Yellow,Very Good,4164,Bangalore
+1169,Cafe Coffee Day,South Indian,800,INR,Yes,Yes,2.2,White,Poor,195,Bangalore
+1170,Cafe Coffee Day,Cafe,600,INR,Yes,Yes,3.0,White,Very Good,2187,Bangalore
+1171,Meghana Foods,South Indian,500,INR,No,Yes,4.7,Green,Good,3515,Bangalore
+1172,Meghana Foods,Chinese,300,INR,No,Yes,3.3,Green,Very Good,2330,Bangalore
+1173,KFC,North Indian,800,INR,No,No,1.8,Orange,Good,2359,Bangalore
+1174,McDonald's,Biryani,200,INR,No,Yes,2.7,Dark Green,Average,4841,Bangalore
+1175,Truffles,Fast Food,200,INR,No,Yes,1.9,Yellow,Poor,3606,Bangalore
+1176,Cafe Coffee Day,South Indian,800,INR,No,No,1.9,White,Very Good,276,Bangalore
+1177,Cafe Coffee Day,Desserts,700,INR,Yes,No,2.7,Green,Good,60,Bangalore
+1178,Empire,South Indian,300,INR,No,No,2.7,Dark Green,Excellent,3390,Bangalore
+1179,KFC,Desserts,700,INR,No,No,4.2,Yellow,Poor,1913,Bangalore
+1180,McDonald's,Chinese,500,INR,No,Yes,4.8,Green,Average,3927,Bangalore
+1181,KFC,Desserts,200,INR,No,Yes,3.0,Green,Good,2591,Bangalore
+1182,Corner House,Continental,200,INR,No,Yes,3.1,White,Average,566,Bangalore
+1183,McDonald's,Fast Food,600,INR,No,Yes,4.4,White,Average,3935,Bangalore
+1184,Cafe Coffee Day,North Indian,500,INR,No,Yes,2.6,Green,Very Good,1571,Bangalore
+1185,Cafe Coffee Day,Desserts,200,INR,No,Yes,2.3,Red,Very Good,4717,Bangalore
+1186,McDonald's,Desserts,500,INR,No,Yes,4.4,Green,Good,1200,Bangalore
+1187,Cafe Coffee Day,North Indian,300,INR,No,No,1.9,Dark Green,Excellent,4409,Bangalore
+1188,Truffles,Fast Food,400,INR,Yes,No,3.7,Green,Good,2854,Bangalore
+1189,McDonald's,South Indian,200,INR,No,Yes,3.5,Orange,Excellent,2895,Bangalore
+1190,KFC,Desserts,600,INR,Yes,No,2.9,Orange,Average,1236,Bangalore
+1191,McDonald's,North Indian,300,INR,No,Yes,2.8,Orange,Poor,136,Bangalore
+1192,Cafe Coffee Day,Continental,800,INR,No,No,4.2,Red,Good,1029,Bangalore
+1193,Truffles,Continental,500,INR,No,Yes,2.1,Red,Good,2156,Bangalore
+1194,Truffles,Chinese,800,INR,No,No,2.5,Green,Excellent,2594,Bangalore
+1195,Corner House,North Indian,700,INR,No,Yes,4.1,Orange,Average,661,Bangalore
+1196,KFC,Chinese,300,INR,Yes,Yes,3.5,Red,Average,2472,Bangalore
+1197,Meghana Foods,Continental,800,INR,No,Yes,2.2,White,Excellent,2677,Bangalore
+1198,Meghana Foods,Fast Food,200,INR,Yes,Yes,4.5,Green,Average,2308,Bangalore
+1199,McDonald's,South Indian,500,INR,Yes,Yes,3.0,Dark Green,Very Good,86,Bangalore
+1200,Corner House,North Indian,400,INR,No,Yes,4.4,Yellow,Poor,2512,Bangalore
+1201,Empire,Biryani,300,INR,No,Yes,4.2,Green,Good,2942,Bangalore
+1202,McDonald's,Continental,200,INR,No,Yes,3.7,Yellow,Poor,2773,Bangalore
+1203,Corner House,Continental,600,INR,Yes,Yes,3.3,Orange,Good,2504,Bangalore
+1204,KFC,Biryani,700,INR,No,No,4.8,Yellow,Very Good,3310,Bangalore
+1205,KFC,Cafe,500,INR,No,Yes,2.2,Orange,Average,1700,Bangalore
+1206,KFC,Continental,300,INR,No,Yes,4.0,White,Excellent,3670,Bangalore
+1207,KFC,Desserts,300,INR,No,Yes,2.4,Yellow,Very Good,2700,Bangalore
+1208,KFC,Fast Food,400,INR,No,No,2.8,Green,Poor,3629,Bangalore
+1209,Corner House,North Indian,400,INR,No,Yes,2.8,Orange,Excellent,4590,Bangalore
+1210,Corner House,Biryani,600,INR,No,No,4.7,Green,Average,1647,Bangalore
+1211,Truffles,Desserts,700,INR,No,No,4.8,Red,Very Good,3318,Bangalore
+1212,Meghana Foods,Biryani,600,INR,No,Yes,2.4,Orange,Excellent,3687,Bangalore
+1213,Cafe Coffee Day,North Indian,200,INR,No,Yes,1.9,Yellow,Very Good,596,Bangalore
+1214,KFC,Chinese,200,INR,No,No,4.0,Orange,Very Good,4545,Bangalore
+1215,Empire,North Indian,600,INR,No,No,3.1,Green,Average,484,Bangalore
+1216,Cafe Coffee Day,Cafe,700,INR,No,Yes,2.1,White,Good,645,Bangalore
+1217,Corner House,North Indian,600,INR,No,Yes,3.9,Orange,Excellent,3089,Bangalore
+1218,Empire,North Indian,700,INR,No,No,3.5,Yellow,Average,4757,Bangalore
+1219,Empire,Cafe,700,INR,No,Yes,4.8,Red,Very Good,4853,Bangalore
+1220,Empire,Fast Food,800,INR,No,No,2.5,Dark Green,Average,4384,Bangalore
+1221,Truffles,Continental,500,INR,No,Yes,3.1,White,Good,720,Bangalore
+1222,Corner House,North Indian,700,INR,No,Yes,3.5,Red,Excellent,4733,Bangalore
+1223,Empire,Cafe,400,INR,No,No,4.3,Orange,Good,498,Bangalore
+1224,KFC,Desserts,700,INR,No,Yes,3.5,Green,Poor,4729,Bangalore
+1225,McDonald's,Chinese,700,INR,No,Yes,3.7,Green,Excellent,1673,Bangalore
+1226,Empire,Chinese,700,INR,Yes,Yes,2.5,Yellow,Good,3067,Bangalore
+1227,Truffles,North Indian,800,INR,Yes,Yes,4.4,Green,Very Good,114,Bangalore
+1228,Cafe Coffee Day,Fast Food,800,INR,No,Yes,3.1,White,Excellent,2979,Bangalore
+1229,Corner House,Fast Food,200,INR,No,Yes,2.2,Green,Excellent,4769,Bangalore
+1230,Truffles,Desserts,800,INR,Yes,Yes,3.9,Yellow,Average,1736,Bangalore
+1231,Empire,North Indian,400,INR,Yes,No,2.5,Dark Green,Very Good,3611,Bangalore
+1232,Corner House,Chinese,400,INR,Yes,Yes,2.1,Orange,Poor,2253,Bangalore
+1233,McDonald's,Fast Food,800,INR,Yes,Yes,4.5,Orange,Good,2294,Bangalore
+1234,Empire,North Indian,600,INR,Yes,Yes,3.2,Green,Average,3630,Bangalore
+1235,Truffles,Biryani,500,INR,No,No,4.1,Red,Good,146,Bangalore
+1236,Meghana Foods,Fast Food,800,INR,No,No,2.7,Orange,Poor,3982,Bangalore
+1237,KFC,Cafe,700,INR,No,Yes,4.2,Dark Green,Poor,3453,Bangalore
+1238,Cafe Coffee Day,Biryani,300,INR,No,Yes,2.1,Green,Excellent,4507,Bangalore
+1239,Truffles,Continental,500,INR,Yes,Yes,2.9,Yellow,Poor,2410,Bangalore
+1240,Corner House,Fast Food,500,INR,No,No,4.8,Dark Green,Good,136,Bangalore
+1241,Empire,Chinese,400,INR,No,No,4.3,Green,Very Good,3360,Bangalore
+1242,KFC,South Indian,500,INR,No,Yes,3.3,Dark Green,Very Good,3005,Bangalore
+1243,Empire,Biryani,800,INR,Yes,No,2.9,Orange,Excellent,3552,Bangalore
+1244,Corner House,Continental,700,INR,No,No,4.5,Yellow,Good,18,Bangalore
+1245,Empire,Desserts,700,INR,No,Yes,3.5,Green,Good,2242,Bangalore
+1246,Meghana Foods,Desserts,200,INR,No,Yes,4.2,White,Poor,448,Bangalore
+1247,KFC,Chinese,700,INR,No,Yes,4.1,Yellow,Good,1948,Bangalore
+1248,KFC,Fast Food,700,INR,No,Yes,1.9,White,Average,945,Bangalore
+1249,Corner House,North Indian,400,INR,No,No,2.2,Dark Green,Poor,4236,Bangalore
+1250,Cafe Coffee Day,Fast Food,700,INR,No,Yes,3.8,Red,Average,1920,Bangalore
+1251,Meghana Foods,Chinese,200,INR,Yes,Yes,2.3,Yellow,Excellent,2977,Bangalore
+1252,Truffles,Desserts,300,INR,Yes,Yes,2.6,Dark Green,Very Good,4188,Bangalore
+1253,Empire,Fast Food,800,INR,No,Yes,4.7,White,Excellent,4015,Bangalore
+1254,McDonald's,Desserts,400,INR,Yes,Yes,3.5,Orange,Very Good,238,Bangalore
+1255,Empire,Biryani,300,INR,No,Yes,4.1,Orange,Excellent,204,Bangalore
+1256,Empire,Continental,400,INR,No,Yes,3.5,Red,Good,2607,Bangalore
+1257,Truffles,North Indian,600,INR,No,Yes,3.5,Yellow,Average,4340,Bangalore
+1258,Empire,Biryani,500,INR,No,Yes,2.1,Yellow,Very Good,4927,Bangalore
+1259,Meghana Foods,Desserts,600,INR,No,Yes,2.9,Yellow,Poor,3388,Bangalore
+1260,Meghana Foods,Desserts,700,INR,No,Yes,2.7,Dark Green,Average,2972,Bangalore
+1261,KFC,South Indian,300,INR,No,Yes,3.0,Red,Poor,4390,Bangalore
+1262,Corner House,South Indian,700,INR,No,Yes,4.3,Yellow,Average,2687,Bangalore
+1263,Cafe Coffee Day,Biryani,500,INR,No,Yes,3.0,Dark Green,Average,4951,Bangalore
+1264,McDonald's,Cafe,400,INR,No,Yes,3.2,Orange,Excellent,4166,Bangalore
+1265,Empire,Biryani,500,INR,Yes,Yes,3.0,White,Very Good,1348,Bangalore
+1266,Empire,South Indian,200,INR,No,No,2.1,Dark Green,Very Good,4400,Bangalore
+1267,Truffles,Desserts,500,INR,No,Yes,3.2,Orange,Average,816,Bangalore
+1268,Corner House,Chinese,200,INR,No,Yes,2.4,Orange,Good,820,Bangalore
+1269,Meghana Foods,Biryani,500,INR,No,No,2.4,White,Good,192,Bangalore
+1270,McDonald's,Desserts,800,INR,Yes,Yes,2.1,Orange,Poor,1776,Bangalore
+1271,KFC,Chinese,200,INR,Yes,Yes,2.9,Red,Poor,3645,Bangalore
+1272,Meghana Foods,Chinese,300,INR,No,No,4.1,White,Excellent,4624,Bangalore
+1273,Corner House,South Indian,700,INR,Yes,No,2.7,Orange,Average,250,Bangalore
+1274,Cafe Coffee Day,Biryani,700,INR,No,Yes,2.8,Green,Poor,1788,Bangalore
+1275,KFC,Fast Food,600,INR,No,Yes,3.8,Dark Green,Poor,3700,Bangalore
+1276,Cafe Coffee Day,North Indian,700,INR,No,Yes,2.4,Orange,Average,2463,Bangalore
+1277,Truffles,South Indian,400,INR,No,Yes,4.6,Red,Excellent,1167,Bangalore
+1278,Truffles,South Indian,800,INR,No,Yes,3.4,Yellow,Poor,3893,Bangalore
+1279,Empire,Fast Food,500,INR,No,Yes,3.2,Orange,Excellent,1096,Bangalore
+1280,Cafe Coffee Day,North Indian,600,INR,No,Yes,3.5,Yellow,Very Good,2679,Bangalore
+1281,Corner House,Desserts,400,INR,No,Yes,2.3,Green,Excellent,1847,Bangalore
+1282,McDonald's,Cafe,400,INR,No,No,3.7,Orange,Good,3904,Bangalore
+1283,KFC,Biryani,200,INR,No,Yes,2.9,White,Good,504,Bangalore
+1284,Meghana Foods,Cafe,700,INR,No,Yes,4.6,Yellow,Excellent,1621,Bangalore
+1285,Corner House,Desserts,300,INR,No,Yes,2.3,Green,Good,2472,Bangalore
+1286,Corner House,Continental,300,INR,No,Yes,3.4,White,Very Good,2546,Bangalore
+1287,Truffles,South Indian,600,INR,No,Yes,3.7,White,Average,1387,Bangalore
+1288,Cafe Coffee Day,North Indian,800,INR,No,Yes,1.9,White,Good,2994,Bangalore
+1289,Empire,South Indian,300,INR,No,Yes,2.9,White,Good,3816,Bangalore
+1290,Empire,Chinese,500,INR,Yes,Yes,4.1,Orange,Excellent,717,Bangalore
+1291,KFC,South Indian,300,INR,No,Yes,4.3,Dark Green,Very Good,3484,Bangalore
+1292,Truffles,South Indian,600,INR,No,Yes,2.8,Orange,Average,4434,Bangalore
+1293,Corner House,Desserts,300,INR,No,Yes,4.3,Orange,Excellent,658,Bangalore
+1294,McDonald's,Desserts,500,INR,No,Yes,4.8,Green,Excellent,4008,Bangalore
+1295,Truffles,Desserts,200,INR,No,No,4.5,Green,Very Good,4524,Bangalore
+1296,KFC,Cafe,800,INR,No,Yes,2.2,Dark Green,Average,4994,Bangalore
+1297,KFC,Chinese,600,INR,Yes,Yes,4.1,Green,Very Good,4234,Bangalore
+1298,Truffles,Continental,200,INR,No,Yes,2.8,Red,Average,3764,Bangalore
+1299,KFC,Continental,200,INR,Yes,Yes,4.9,Dark Green,Very Good,2989,Bangalore
+1300,Truffles,Desserts,200,INR,No,No,3.3,Green,Excellent,4637,Bangalore
+1301,Meghana Foods,North Indian,400,INR,No,Yes,2.2,Dark Green,Excellent,2104,Bangalore
+1302,Truffles,Cafe,800,INR,No,No,4.0,Orange,Poor,1255,Bangalore
+1303,Cafe Coffee Day,Fast Food,700,INR,No,Yes,2.8,Orange,Good,2482,Bangalore
+1304,Truffles,North Indian,800,INR,No,Yes,4.9,Dark Green,Very Good,383,Bangalore
+1305,KFC,Biryani,400,INR,Yes,Yes,4.8,Red,Poor,2607,Bangalore
+1306,Cafe Coffee Day,Biryani,700,INR,No,No,3.8,Red,Good,193,Bangalore
+1307,KFC,North Indian,800,INR,Yes,Yes,2.2,Dark Green,Very Good,3807,Bangalore
+1308,Empire,Desserts,200,INR,No,Yes,3.9,Green,Average,3719,Bangalore
+1309,Empire,Fast Food,600,INR,No,No,2.1,Yellow,Good,2581,Bangalore
+1310,Cafe Coffee Day,Fast Food,700,INR,Yes,Yes,1.9,Red,Excellent,2565,Bangalore
+1311,Meghana Foods,Cafe,500,INR,No,Yes,4.4,White,Poor,2763,Bangalore
+1312,Empire,Fast Food,500,INR,No,Yes,2.5,Orange,Good,2798,Bangalore
+1313,Truffles,Biryani,300,INR,Yes,No,3.0,Dark Green,Good,2339,Bangalore
+1314,KFC,Chinese,700,INR,No,Yes,4.8,White,Excellent,3406,Bangalore
+1315,Empire,Desserts,600,INR,No,No,2.8,Dark Green,Very Good,731,Bangalore
+1316,Empire,Fast Food,400,INR,No,No,2.7,Orange,Average,2872,Bangalore
+1317,Meghana Foods,Cafe,200,INR,No,Yes,4.6,Orange,Excellent,3120,Bangalore
+1318,Cafe Coffee Day,Biryani,300,INR,No,Yes,2.1,Red,Average,4780,Bangalore
+1319,Cafe Coffee Day,Chinese,500,INR,No,Yes,4.2,Red,Very Good,4177,Bangalore
+1320,Corner House,South Indian,400,INR,No,Yes,4.9,White,Good,2604,Bangalore
+1321,Meghana Foods,South Indian,400,INR,No,No,4.6,Dark Green,Average,2382,Bangalore
+1322,Truffles,Chinese,200,INR,No,No,3.8,Orange,Poor,531,Bangalore
+1323,Cafe Coffee Day,Biryani,700,INR,No,Yes,2.8,White,Poor,4316,Bangalore
+1324,KFC,Cafe,500,INR,No,Yes,2.6,Yellow,Excellent,634,Bangalore
+1325,Meghana Foods,Chinese,600,INR,Yes,Yes,4.3,White,Very Good,1769,Bangalore
+1326,Empire,Desserts,400,INR,Yes,Yes,4.5,Green,Excellent,3804,Bangalore
+1327,KFC,Desserts,200,INR,No,Yes,3.4,White,Excellent,2370,Bangalore
+1328,KFC,South Indian,600,INR,No,Yes,2.6,Green,Excellent,2,Bangalore
+1329,Empire,Fast Food,700,INR,No,Yes,2.2,Green,Poor,205,Bangalore
+1330,Meghana Foods,Cafe,500,INR,Yes,Yes,2.1,Green,Poor,4135,Bangalore
+1331,Empire,South Indian,700,INR,No,Yes,4.0,Yellow,Excellent,2621,Bangalore
+1332,Corner House,Fast Food,400,INR,Yes,Yes,3.1,White,Poor,4739,Bangalore
+1333,KFC,Fast Food,600,INR,No,Yes,4.6,White,Very Good,2890,Bangalore
+1334,McDonald's,Continental,600,INR,No,No,4.1,Yellow,Excellent,3193,Bangalore
+1335,McDonald's,Desserts,600,INR,No,Yes,2.4,Orange,Poor,2666,Bangalore
+1336,Truffles,Biryani,400,INR,No,No,3.7,Red,Average,3306,Bangalore
+1337,Cafe Coffee Day,North Indian,400,INR,Yes,No,3.2,White,Excellent,897,Bangalore
+1338,Empire,Biryani,700,INR,No,Yes,3.6,Red,Excellent,1085,Bangalore
+1339,Empire,North Indian,300,INR,No,No,4.1,Dark Green,Very Good,1279,Bangalore
+1340,Truffles,Chinese,700,INR,No,Yes,4.3,Dark Green,Good,670,Bangalore
+1341,Truffles,Desserts,500,INR,Yes,Yes,4.4,Yellow,Good,1505,Bangalore
+1342,Truffles,Fast Food,200,INR,No,Yes,2.6,Dark Green,Very Good,3575,Bangalore
+1343,KFC,Cafe,600,INR,No,Yes,1.9,Dark Green,Very Good,4814,Bangalore
+1344,Corner House,North Indian,300,INR,No,Yes,4.1,Orange,Very Good,1955,Bangalore
+1345,Empire,Biryani,200,INR,Yes,Yes,2.1,Orange,Good,249,Bangalore
+1346,KFC,Fast Food,300,INR,Yes,Yes,2.8,Orange,Very Good,1892,Bangalore
+1347,Truffles,North Indian,800,INR,No,Yes,1.8,Dark Green,Poor,3439,Bangalore
+1348,Empire,North Indian,700,INR,No,Yes,3.9,Yellow,Excellent,1853,Bangalore
+1349,KFC,Continental,400,INR,Yes,No,2.3,Green,Excellent,2854,Bangalore
+1350,Corner House,North Indian,600,INR,No,Yes,3.8,Green,Average,1503,Bangalore
+1351,KFC,Cafe,700,INR,Yes,Yes,4.9,Red,Average,3385,Bangalore
+1352,Corner House,Desserts,200,INR,No,No,2.0,Green,Excellent,3571,Bangalore
+1353,Truffles,Cafe,800,INR,Yes,Yes,2.0,Green,Poor,3792,Bangalore
+1354,Corner House,South Indian,800,INR,No,Yes,2.9,Orange,Good,3426,Bangalore
+1355,Empire,Fast Food,800,INR,Yes,Yes,4.5,Orange,Good,43,Bangalore
+1356,Truffles,Desserts,200,INR,No,Yes,2.5,Dark Green,Poor,3612,Bangalore
+1357,Empire,Continental,200,INR,No,No,2.9,Red,Good,2618,Bangalore
+1358,McDonald's,Desserts,200,INR,No,Yes,2.0,White,Very Good,4678,Bangalore
+1359,Meghana Foods,Desserts,200,INR,Yes,No,4.2,Red,Excellent,3163,Bangalore
+1360,Corner House,Biryani,800,INR,No,Yes,3.1,Red,Excellent,1288,Bangalore
+1361,Meghana Foods,Desserts,800,INR,No,Yes,4.2,Yellow,Poor,2942,Bangalore
+1362,Meghana Foods,Continental,300,INR,Yes,Yes,4.6,Dark Green,Good,219,Bangalore
+1363,Corner House,Cafe,700,INR,No,Yes,2.5,Yellow,Average,1925,Bangalore
+1364,Truffles,Desserts,600,INR,No,Yes,4.3,Red,Average,2972,Bangalore
+1365,McDonald's,Chinese,400,INR,Yes,No,2.0,Red,Good,3513,Bangalore
+1366,Empire,Fast Food,800,INR,No,No,4.6,Red,Average,2448,Bangalore
+1367,KFC,Desserts,400,INR,No,Yes,3.8,Green,Poor,3471,Bangalore
+1368,Empire,Fast Food,700,INR,No,No,4.5,Yellow,Poor,2774,Bangalore
+1369,KFC,Chinese,700,INR,Yes,No,1.8,Red,Good,990,Bangalore
+1370,Empire,Chinese,400,INR,Yes,Yes,2.3,Orange,Average,2946,Bangalore
+1371,Corner House,Fast Food,800,INR,No,Yes,3.0,Dark Green,Poor,1812,Bangalore
+1372,McDonald's,North Indian,400,INR,No,Yes,3.0,Dark Green,Poor,4953,Bangalore
+1373,KFC,South Indian,300,INR,No,Yes,2.5,Orange,Very Good,803,Bangalore
+1374,Cafe Coffee Day,Biryani,500,INR,No,Yes,3.0,Dark Green,Very Good,489,Bangalore
+1375,Truffles,North Indian,800,INR,No,Yes,2.2,Green,Poor,3556,Bangalore
+1376,Empire,North Indian,800,INR,No,No,3.1,Green,Good,1493,Bangalore
+1377,Empire,Cafe,600,INR,No,Yes,4.3,White,Excellent,3645,Bangalore
+1378,KFC,Biryani,200,INR,Yes,Yes,3.3,White,Excellent,2891,Bangalore
+1379,Truffles,Biryani,500,INR,No,No,1.9,White,Poor,1705,Bangalore
+1380,Truffles,North Indian,700,INR,No,No,3.1,Dark Green,Poor,3516,Bangalore
+1381,Corner House,Desserts,800,INR,No,Yes,1.9,Green,Poor,3340,Bangalore
+1382,Cafe Coffee Day,Cafe,400,INR,No,No,4.8,Green,Good,53,Bangalore
+1383,Corner House,Cafe,500,INR,Yes,Yes,2.2,Green,Very Good,2575,Bangalore
+1384,Corner House,Chinese,600,INR,Yes,Yes,4.0,Orange,Poor,3591,Bangalore
+1385,Corner House,Continental,700,INR,No,Yes,4.8,Green,Poor,615,Bangalore
+1386,Corner House,Biryani,200,INR,No,Yes,4.4,Orange,Average,954,Bangalore
+1387,Corner House,North Indian,200,INR,Yes,Yes,4.0,White,Good,2433,Bangalore
+1388,McDonald's,Chinese,600,INR,No,Yes,4.4,White,Poor,1629,Bangalore
+1389,Truffles,Fast Food,600,INR,No,Yes,4.8,Dark Green,Average,2781,Bangalore
+1390,Corner House,South Indian,400,INR,No,Yes,3.7,White,Excellent,649,Bangalore
+1391,Truffles,Continental,800,INR,No,Yes,3.5,Dark Green,Poor,2347,Bangalore
+1392,Truffles,Continental,200,INR,No,No,3.7,Red,Poor,4490,Bangalore
+1393,Meghana Foods,Continental,700,INR,No,Yes,3.5,Red,Average,3278,Bangalore
+1394,McDonald's,Cafe,500,INR,No,Yes,3.8,Yellow,Good,2640,Bangalore
+1395,Corner House,Fast Food,700,INR,Yes,Yes,3.2,Dark Green,Poor,3801,Bangalore
+1396,Empire,Continental,300,INR,No,Yes,2.5,Yellow,Excellent,2561,Bangalore
+1397,KFC,Fast Food,300,INR,No,Yes,2.2,Yellow,Poor,3249,Bangalore
+1398,Cafe Coffee Day,Desserts,600,INR,Yes,No,2.0,Red,Excellent,370,Bangalore
+1399,Empire,Continental,400,INR,No,Yes,2.6,Dark Green,Very Good,857,Bangalore
+1400,McDonald's,South Indian,300,INR,No,Yes,1.9,Red,Very Good,4886,Bangalore
+1401,KFC,Fast Food,200,INR,No,Yes,3.6,Yellow,Excellent,4753,Bangalore
+1402,McDonald's,Fast Food,700,INR,No,Yes,2.7,Dark Green,Good,383,Bangalore
+1403,Truffles,South Indian,700,INR,No,Yes,4.4,Yellow,Poor,3877,Bangalore
+1404,KFC,Continental,600,INR,No,Yes,2.0,Green,Poor,2552,Bangalore
+1405,Truffles,South Indian,800,INR,No,Yes,2.5,Dark Green,Very Good,4334,Bangalore
+1406,Empire,Fast Food,800,INR,No,Yes,4.1,Dark Green,Excellent,4290,Bangalore
+1407,Empire,South Indian,500,INR,No,Yes,3.7,Yellow,Poor,2725,Bangalore
+1408,KFC,Fast Food,600,INR,No,Yes,2.0,Green,Poor,4034,Bangalore
+1409,KFC,Fast Food,500,INR,No,No,4.5,Orange,Good,3293,Bangalore
+1410,Corner House,Desserts,800,INR,No,No,4.5,Red,Average,4251,Bangalore
+1411,McDonald's,North Indian,600,INR,No,No,2.8,Yellow,Very Good,3988,Bangalore
+1412,Corner House,Fast Food,600,INR,No,Yes,2.9,Dark Green,Very Good,922,Bangalore
+1413,McDonald's,Continental,600,INR,No,Yes,4.9,Red,Average,2915,Bangalore
+1414,Corner House,Chinese,800,INR,No,Yes,3.7,Red,Poor,2950,Bangalore
+1415,Truffles,Cafe,500,INR,Yes,Yes,3.4,Red,Good,3046,Bangalore
+1416,KFC,Biryani,500,INR,No,Yes,4.4,Orange,Good,974,Bangalore
+1417,Empire,North Indian,600,INR,Yes,Yes,2.7,White,Very Good,1230,Bangalore
+1418,McDonald's,North Indian,300,INR,Yes,Yes,3.1,Yellow,Good,2435,Bangalore
+1419,McDonald's,North Indian,400,INR,No,No,2.6,White,Average,1814,Bangalore
+1420,Empire,Desserts,800,INR,No,Yes,4.2,White,Poor,2934,Bangalore
+1421,Corner House,Fast Food,400,INR,Yes,Yes,3.6,White,Average,4933,Bangalore
+1422,McDonald's,Desserts,400,INR,No,Yes,3.8,Red,Excellent,1363,Bangalore
+1423,Cafe Coffee Day,Fast Food,500,INR,No,No,2.6,Green,Very Good,3940,Bangalore
+1424,Truffles,Continental,500,INR,No,Yes,2.5,Red,Good,203,Bangalore
+1425,KFC,Desserts,300,INR,No,Yes,3.3,Red,Excellent,160,Bangalore
+1426,Empire,Desserts,400,INR,Yes,Yes,4.1,Dark Green,Good,4487,Bangalore
+1427,KFC,Cafe,400,INR,No,Yes,3.4,Dark Green,Poor,768,Bangalore
+1428,Cafe Coffee Day,Chinese,600,INR,Yes,Yes,1.9,White,Poor,3748,Bangalore
+1429,McDonald's,Desserts,500,INR,No,No,4.5,Red,Poor,2581,Bangalore
+1430,McDonald's,Cafe,400,INR,No,Yes,2.0,White,Good,1093,Bangalore
+1431,Cafe Coffee Day,South Indian,700,INR,No,Yes,4.8,Dark Green,Excellent,4500,Bangalore
+1432,Empire,Chinese,300,INR,No,Yes,1.9,Green,Poor,607,Bangalore
+1433,Truffles,Continental,700,INR,No,Yes,4.0,Yellow,Excellent,1540,Bangalore
+1434,Meghana Foods,Desserts,700,INR,Yes,Yes,2.1,White,Good,2875,Bangalore
+1435,Empire,Biryani,800,INR,No,Yes,4.6,Green,Excellent,3191,Bangalore
+1436,Meghana Foods,North Indian,800,INR,No,Yes,3.2,Yellow,Good,1837,Bangalore
+1437,Cafe Coffee Day,South Indian,300,INR,No,Yes,2.2,Orange,Good,689,Bangalore
+1438,Corner House,South Indian,700,INR,No,Yes,2.9,White,Very Good,3759,Bangalore
+1439,Meghana Foods,Continental,400,INR,No,Yes,2.3,White,Good,2949,Bangalore
+1440,Truffles,Cafe,500,INR,Yes,Yes,2.3,Orange,Good,2103,Bangalore
+1441,Corner House,South Indian,300,INR,No,No,4.7,Orange,Average,365,Bangalore
+1442,Meghana Foods,Chinese,600,INR,No,Yes,3.2,White,Poor,3575,Bangalore
+1443,Cafe Coffee Day,Desserts,700,INR,No,Yes,4.2,Orange,Very Good,4550,Bangalore
+1444,Corner House,Desserts,300,INR,No,No,3.8,Red,Very Good,4199,Bangalore
+1445,Cafe Coffee Day,Biryani,200,INR,No,Yes,3.9,Yellow,Very Good,4172,Bangalore
+1446,Meghana Foods,Continental,200,INR,No,No,2.2,Yellow,Average,4325,Bangalore
+1447,Cafe Coffee Day,North Indian,800,INR,No,Yes,2.5,Yellow,Good,2378,Bangalore
+1448,Truffles,Cafe,500,INR,No,No,4.2,Red,Poor,1205,Bangalore
+1449,Meghana Foods,North Indian,400,INR,No,Yes,4.8,Orange,Excellent,4988,Bangalore
+1450,Meghana Foods,South Indian,500,INR,No,Yes,2.6,Green,Good,3839,Bangalore
+1451,Meghana Foods,Continental,500,INR,No,Yes,2.6,Orange,Average,2735,Bangalore
+1452,Empire,Biryani,500,INR,Yes,No,3.3,White,Good,3347,Bangalore
+1453,Empire,North Indian,500,INR,Yes,No,4.8,Dark Green,Good,1675,Bangalore
+1454,Empire,Chinese,600,INR,No,Yes,2.6,Yellow,Average,298,Bangalore
+1455,Truffles,Desserts,600,INR,Yes,Yes,3.1,Orange,Very Good,956,Bangalore
+1456,Corner House,South Indian,800,INR,No,No,4.6,Green,Very Good,1114,Bangalore
+1457,Cafe Coffee Day,Biryani,300,INR,No,Yes,1.8,White,Poor,2505,Bangalore
+1458,McDonald's,North Indian,200,INR,No,No,1.9,Red,Poor,1474,Bangalore
+1459,Meghana Foods,Cafe,500,INR,No,No,3.7,Red,Very Good,4460,Bangalore
+1460,Cafe Coffee Day,Chinese,800,INR,No,Yes,4.6,Green,Excellent,4446,Bangalore
+1461,Meghana Foods,Chinese,300,INR,Yes,Yes,2.5,White,Good,3726,Bangalore
+1462,Truffles,North Indian,200,INR,No,Yes,3.3,Yellow,Excellent,3471,Bangalore
+1463,Meghana Foods,Desserts,700,INR,No,Yes,3.2,Orange,Good,2828,Bangalore
+1464,Empire,North Indian,400,INR,Yes,No,3.3,White,Very Good,2850,Bangalore
+1465,McDonald's,South Indian,600,INR,No,Yes,3.7,Red,Poor,2506,Bangalore
+1466,KFC,North Indian,700,INR,No,No,3.3,Green,Poor,3770,Bangalore
+1467,Meghana Foods,Chinese,200,INR,No,Yes,3.2,Green,Excellent,2964,Bangalore
+1468,Cafe Coffee Day,Biryani,700,INR,No,No,3.3,Orange,Poor,4594,Bangalore
+1469,Empire,North Indian,400,INR,No,Yes,3.6,Green,Very Good,949,Bangalore
+1470,KFC,Desserts,800,INR,No,Yes,3.5,Green,Excellent,4603,Bangalore
+1471,McDonald's,Continental,200,INR,No,Yes,4.4,White,Good,2850,Bangalore
+1472,KFC,Biryani,700,INR,Yes,No,2.0,Yellow,Poor,165,Bangalore
+1473,Empire,Cafe,600,INR,No,Yes,4.4,Orange,Average,3486,Bangalore
+1474,Corner House,Fast Food,600,INR,No,No,4.4,White,Poor,2509,Bangalore
+1475,Corner House,North Indian,300,INR,Yes,Yes,2.7,Yellow,Good,919,Bangalore
+1476,KFC,Desserts,700,INR,No,Yes,3.2,White,Excellent,113,Bangalore
+1477,Truffles,Biryani,500,INR,No,Yes,3.2,Dark Green,Good,3504,Bangalore
+1478,Cafe Coffee Day,Desserts,700,INR,No,Yes,2.5,White,Average,991,Bangalore
+1479,Cafe Coffee Day,Cafe,800,INR,No,Yes,3.0,Green,Very Good,3839,Bangalore
+1480,KFC,Chinese,200,INR,No,No,1.9,Yellow,Poor,1258,Bangalore
+1481,Meghana Foods,Desserts,200,INR,No,No,2.7,Orange,Excellent,3426,Bangalore
+1482,Meghana Foods,Biryani,800,INR,No,No,4.3,Orange,Very Good,514,Bangalore
+1483,Cafe Coffee Day,Desserts,700,INR,No,No,2.7,Yellow,Good,4804,Bangalore
+1484,Cafe Coffee Day,Desserts,800,INR,No,Yes,4.3,Green,Excellent,3196,Bangalore
+1485,Corner House,Desserts,400,INR,No,Yes,3.4,Red,Very Good,4434,Bangalore
+1486,Truffles,South Indian,800,INR,No,Yes,4.5,White,Excellent,2584,Bangalore
+1487,Empire,South Indian,600,INR,No,No,3.6,Green,Average,67,Bangalore
+1488,Meghana Foods,Chinese,800,INR,No,Yes,1.9,Dark Green,Average,1596,Bangalore
+1489,Cafe Coffee Day,North Indian,200,INR,No,Yes,3.9,Yellow,Poor,4478,Bangalore
+1490,Corner House,Desserts,600,INR,No,Yes,1.9,White,Poor,18,Bangalore
+1491,McDonald's,Cafe,200,INR,No,Yes,3.2,Orange,Average,2730,Bangalore
+1492,Corner House,North Indian,300,INR,Yes,No,4.7,Red,Excellent,3521,Bangalore
+1493,Meghana Foods,Cafe,500,INR,Yes,No,2.3,Dark Green,Average,572,Bangalore
+1494,Meghana Foods,North Indian,200,INR,No,Yes,3.0,Orange,Poor,2258,Bangalore
+1495,Corner House,Chinese,600,INR,No,No,4.1,Yellow,Average,2902,Bangalore
+1496,Empire,Desserts,300,INR,No,Yes,4.5,White,Average,650,Bangalore
+1497,KFC,Desserts,200,INR,No,Yes,3.9,Yellow,Excellent,2587,Bangalore
+1498,Meghana Foods,Fast Food,400,INR,No,Yes,2.6,White,Very Good,3262,Bangalore
+1499,Corner House,Cafe,800,INR,No,Yes,3.9,Green,Poor,1338,Bangalore
