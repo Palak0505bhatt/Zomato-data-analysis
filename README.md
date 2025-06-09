@@ -1,65 +1,41 @@
-# 🍽️ Zomato Data Analysis – Bangalore
 
-This project analyzes Zomato's Bangalore restaurant data to uncover insights through data preprocessing, cleaning, transformation, and visualization.
+# 🍽️ Zomato Data Visualizations – Bangalore
+
+This project analyzes Zomato's Bangalore restaurant data using interactive charts to uncover insights on ratings, cost, online orders, and popular cuisines.
 
 ---
 
 ## 📌 Objective
-
-To clean and analyze the Zomato dataset by:
-- Handling missing and duplicate values
-- Transforming and encoding features
-- Visualizing trends, patterns, and outliers
-- Summarizing key insights for business decisions
+- Clean and preprocess Zomato data  
+- Visualize trends using interactive charts  
+- Summarize insights for decision making  
 
 ---
 
-## 📁 Files
-
-- `zomato_analysis.ipynb` – Main analysis notebook
-- `zomato.csv` – Dataset (CSV format)
-- `README.md` – Project summary
-
----
-
-## ⚙️ Setup & Run
-
-### Requirements
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-````
-
-### Run the Project
-
-**In Google Colab:**
-
-1. Open Colab: [https://colab.research.google.com](https://colab.research.google.com)
-2. Upload `zomato_analysis.ipynb` and `zomato.csv`
-3. Run all cells
-
-**In Jupyter Notebook:**
-
-```bash
-jupyter notebook zomato_analysis.ipynb
-```
+## 📊 Visualizations
+- **Pie Chart** – Online order availability  
+- **Bar Chart** – Avg rating by restaurant type  
+- **Histogram** – Rating distribution  
+- **Scatter Plot** – Votes vs Rating with Cost  
 
 ---
 
-## 📊 Key Steps
-
-* Cleaned `rate`, `cost`, and categorical columns
-* Handled nulls with mode or dropped rows
-* Encoded binary features (`online_order`, `book_table`)
-* Removed duplicates and filtered outliers
-* Visualized rating vs. cost, popular cuisines, and locations
+## 🔍 Key Insights
+- Most restaurants support online orders  
+- Casual Dining & Quick Bites are popular  
+- Votes correlate with high ratings  
+- Cost varies by service, not rating  
 
 ---
 
-## 🔍 Insights
+## 🛠️ Tools Used
+Python, Pandas, Plotly, Seaborn, Matplotlib
 
-* Online ordering is offered by most high-rated restaurants
-* Locations like Indiranagar & Koramangala dominate quality food offerings
-* North Indian and Chinese are top cuisines
-* Votes positively correlate with rating
+---
+
+## 💡 How to Use
+1. Open `zomato_data_visualizations.ipynb` in Colab or Jupyter  
+2. Upload `zomato.csv`  
+3. Run all cells to view interactive charts
 
 ---
